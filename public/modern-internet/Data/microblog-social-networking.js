@@ -1,0 +1,5 @@
+<script type="text/javascript">
+            var div = document.getElementById("textDiv");
+            div.textContent = "The roots of microblogging owe to three main influences: Instant Relay Chat (IRC), chat status messages, and mobile phones. Microblogging is a form of blogging that has become increasingly popular over the last few years. A microblog differs from a traditional blog in that its content is usually made up of short sentence fragments or links to videos, images and websites. Content is usually in the form of short updates, and can be sent from either a computer or mobile device. Simply posting a 140 character message somewhere on the Web isn't the way it works, though. You have to use one of the many microblogging services that are out there. More on these in a moment. These services collect and publish updates in different ways. The central form of aggregation is called a timeline. That's just a collection of updates. The main page (or thereabouts) of most microblogging sites have a public timeline, which lists all of the latest posts from users.";
+            var text = div.textContent;
+        </script>

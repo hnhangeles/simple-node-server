@@ -1,0 +1,5 @@
+<script type="text/javascript">
+            var div = document.getElementById("textDiv");
+            div.textContent = "On the surface a blog looks much like any other website, but the creation of the content is very different. Blog platforms are interfaces that automate the coding of a Web page so the blog authors don't need to know how to code. Many blogging platforms -- like Blogger, Tumblr and Wordpress -- also offer free hosting for the blogs, making it possible for anyone with an Internet connection to post online without having to pay for server space or Web design. Blogging platforms allow bloggers to modify the underlying code of their blogs if they want to tinker with the HTML, but it's not required. The linking of blogs to other blogs through a blogroll -- or list of blogs that a blog author follows -- allows ideas to spread virally. Reblogging is the reposting of content and credit is given to the original author through links that trace back to the original blog; these links are known as trackbacks.";
+            var text = div.textContent;
+        </script>

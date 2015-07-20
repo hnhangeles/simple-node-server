@@ -1,0 +1,5 @@
+<script type="text/javascript">
+            var div = document.getElementById("textDiv");
+            div.textContent = "Well basically, the sender composes a message using the email client on their computer. When the user sends the message, the email text and attachments are uploaded to the SMTP (Simple Mail Transfer Protocol) server as outgoing mail. All outgoing messages wait in the outgoing mail queue while the SMTP server communicates with the DNS (Domain Name Server–like a phone book for domain names and server IP addresses) to find out where the recipient’s email server is located. If the SMTP server finds the recipient’s email server,  it will transfer the message and attachments. If the recipient’s server can’t be found, the sender will get a “Mail Failure” notification in their inbox. The next time the recipient clicks “Send & Receive,” their email client will download all new messages from their own email server. You’ve got mail!";
+            var text = div.textContent;
+        </script>

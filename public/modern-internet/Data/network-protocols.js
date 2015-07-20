@@ -1,0 +1,5 @@
+  <script type="text/javascript">
+            var div = document.getElementById("textDiv");
+            div.textContent = "A network protocol defines rules and conventions for communication between network devices. Protocols for computer networking all generally use packet switching techniques to send and receive messages in the form of packets. Network protocols include mechanisms for devices to identify and make connections with each other, as well as formatting rules that specify how data is packaged into messages sent and received. Consider a comparison between network protocols with how a postal service handles physical paper mail. Just as the postal service manages letters from many sources and destinations, so too do network protocols keep data flowing along many paths continuously. Unlike physical mail, however, network protocols also provide some advanced capabilities like delivering a constant flow of messages to one destination (called streaming) and automatically making copies of a message and delivering it to multiple destinations at once (called broadcasting).";
+            var text = div.textContent;
+        </script>

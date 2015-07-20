@@ -1,0 +1,5 @@
+ <script type="text/javascript">
+            var div = document.getElementById("textDiv");
+            div.textContent = "In streaming video and audio, the traveling information is a stream of data from a server. The decoder is a stand-alone player or a plugin that works as part of a Web browser. The server, information stream and decoder work together to let people watch live or prerecorded broadcasts. Streaming video and audio use protocols that allow the transfer of data in real time. They break files into very small pieces and send them to a specific location in a specific order. These protocols act like an added layer to the protocols that govern Web traffic. So when the real-time protocols are streaming the data where it needs to go, the other Web protocols are still working in the background. These protocols also work together to balance the load on the server. If too many people try to access a file at the same time, the server can delay the start of some streams until others have finished. ";
+            var text = div.textContent;
+        </script>
